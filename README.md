@@ -1,6 +1,8 @@
 Covid-Stats
 Covid-Stats is a simple web application that provides statistics and data visualization for COVID-19 cases worldwide. It allows users to view and compare COVID-19 cases in different countries using bar charts.
 
+![screenshot](./covid-stats.jpg)
+
 Demo
 You can access the live demo of the project at https://aneal07.github.io/Covid-Stats/
 
